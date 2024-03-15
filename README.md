@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/deraw/deraw/blob/2a092368802324b5d63e02ca857c677a8b2d3140/arwenn.png" width="240px" height="240px" alt="Picture of my white tabby striped brown cat">
+  <img src="https://github.com/deraw/deraw/blob/2a092368802324b5d63e02ca857c677a8b2d3140/arwenn.png" width="200px" height="200px" alt="Picture of my white tabby striped brown cat">
 </p>
 <p align="center" width="750px">
   Hi there, I'm Dylan Broussard, a Senior Frontend Engineer<br>
